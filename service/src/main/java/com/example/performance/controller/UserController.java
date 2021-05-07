@@ -27,7 +27,7 @@ public class UserController {
 
         List<UserDto> userDtos = users.stream().map(User::toDto).collect(Collectors.toList());
 
-        DisplayableListDto<UserDto> displayableListDto = DisplayableListDto.<UserDto>builder().items(userDtos).build();
+        DisplayableListDto<UserDto> displayableListDto = DisplayableListDto.<UserDto>builder().data(userDtos).build();
 
         return ResponseEntity.ok(displayableListDto);
     }

@@ -8,5 +8,5 @@ import java.util.List;
 @Data
 @Builder
 public class DisplayableListDto<T extends Dto> {
-    private List<T> items;
+    private List<T> data;
 }
