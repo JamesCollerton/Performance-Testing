@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/collej02/Documents/Personal/Git_Folders/Performance-Testing/testing/src/main/scala/LoadTest/LoadTest.scala:3:11: object gatling is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0mimport io.gatling.core.Predef._[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/collej02/Documents/Personal/Git_Folders/Performance-Testing/testing/src/main/scala/LoadTest/LoadTest.scala:4:11: object gatling is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0mimport io.gatling.http.Predef._[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/collej02/Documents/Personal/Git_Folders/Performance-Testing/testing/src/main/scala/LoadTest/LoadTest.scala:6:24: not found: type Simulation[0m
+[0m[[0m[31merror[0m] [0m[0mclass LoadTest extends Simulation {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/collej02/Documents/Personal/Git_Folders/Performance-Testing/testing/src/main/scala/LoadTest/LoadTest.scala:8:24: not found: value http[0m
+[0m[[0m[31merror[0m] [0m[0m    val httpProtocol = http[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/collej02/Documents/Personal/Git_Folders/Performance-Testing/testing/src/main/scala/LoadTest/LoadTest.scala:13:15: not found: value scenario[0m
+[0m[[0m[31merror[0m] [0m[0m    val scn = scenario("Load Test")[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/collej02/Documents/Personal/Git_Folders/Performance-Testing/testing/src/main/scala/LoadTest/LoadTest.scala:14:13: not found: value http[0m
+[0m[[0m[31merror[0m] [0m[0m      .exec(http("Get List of Users")[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/collej02/Documents/Personal/Git_Folders/Performance-Testing/testing/src/main/scala/LoadTest/LoadTest.scala:18:5: not found: value setUp[0m
+[0m[[0m[31merror[0m] [0m[0m    setUp([0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

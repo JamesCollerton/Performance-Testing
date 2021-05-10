@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/collej02/Library/Caches/JNA/temp/jna7875230843986769912.tmp, -Dswoval.tmpdir=/Users/collej02/.sbt/1.0, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/collej02/Library/Caches/JNA/temp/jna1778884140894412578.tmp, -Dswoval.tmpdir=/Users/collej02/.sbt/1.0, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
 [0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
 [0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
